@@ -1,6 +1,7 @@
-<p align="center" style="font-size: 36px;">
+<p align="center" style="font-size: 52px;">
     Hello, I'm Charlène 🙂
 </p>
+ 
  
 
 
