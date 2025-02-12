@@ -48,6 +48,7 @@ I am excited to bring my diverse background and fresh perspective to the tech in
  ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GitHub Stats
  
 <br/>
+<p align="center">
     <a href="https://github.com/Knarta/github-readme-stats"><img alt="Knarta Github Stats" src="https://github-readme-stats.vercel.app/api?username=Knarta&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Knarta/github-readme-stats"><img alt="Knarta Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knarta&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
@@ -55,6 +56,7 @@ I am excited to bring my diverse background and fresh perspective to the tech in
 
  ## <picture> <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="80"> </picture> Git Profile Trophies
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Knarta&theme=dracula&no-bg=true&row=1"/>
+ </p>
 
 -----
 
