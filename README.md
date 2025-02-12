@@ -46,11 +46,11 @@ I am excited to bring my diverse background and fresh perspective to the tech in
  -----
  
  ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GitHub Stats
- <br>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Knarta&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
-<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knarta&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+ 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Knarta&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knarta&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </a>
+
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Knarta&theme=dracula&no-bg=true&row=1"/>
 
 ----
