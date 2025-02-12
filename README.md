@@ -9,6 +9,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Mon+Nom+est+MARTIN+Charlène...;J'ai+30+ans+...;Etudiante+en+Web+development+FullStack..."/>
 
+<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+
 I am a career changer with a passion for technology and innovation. 
 
 Currently, I am a student at [Holberton School](https://www.holbertonschool.com/), where I am learning full-stack software development. 
@@ -47,7 +49,7 @@ I am excited to bring my diverse background and fresh perspective to the tech in
 ----
 
 <p align="center">
-![snake gif](https://github.com/Knarta/Knarta/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 📫 Contact Me
@@ -58,6 +60,7 @@ I am excited to bring my diverse background and fresh perspective to the tech in
 <a href="mailto:charlene.martin@holbertonstudents.com"target="top" rel="noopener noreferrer">
   <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="charlene-email"/>
   </a>
+
 
 
 -----
