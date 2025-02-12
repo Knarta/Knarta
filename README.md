@@ -54,7 +54,6 @@ I am excited to bring my diverse background and fresh perspective to the tech in
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
  ## <hr/> <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="80" />&nbsp;Git Profile Trophies</p><br>
-
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Knarta&theme=dracula&no-bg=true&row=1"/>
 
 -----
@@ -80,8 +79,7 @@ I am excited to bring my diverse background and fresh perspective to the tech in
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Thanks+For+Visinting+!!!..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Thanks+For+Visinting+!!!"/>
  </p>
-
 
 <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
