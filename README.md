@@ -58,7 +58,7 @@ I am excited to bring my diverse background and fresh perspective to the tech in
 
 -----
 
-## 📫 Contact Me
+## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Contact Me
 
 <br>
 <a href="https://www.linkedin.com/in/charl%C3%A8ne-martin-a6814660/"> <img border="0" alt="Charlene LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
