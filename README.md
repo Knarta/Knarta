@@ -1,6 +1,6 @@
-<p align="center" style="font-size: 52px;">
-    Hello, I'm Charlène 🙂
-</p>
+<p align="center">
+![Mon image](https://imgur.com/a/7bgZLfO.png)
+ </p>
  
  
 
