@@ -61,10 +61,11 @@ I am excited to bring my diverse background and fresh perspective to the tech in
 ## 📫 Contact Me
 
 <br>
-<a href="https://www.linkedin.com/in/charl%C3%A8ne-martin-a6814660/"target="_blank"  rel="noopener noreferrer">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="charlene-linkedin" />
+<a href="https://www.linkedin.com/in/charl%C3%A8ne-martin-a6814660/" <img border="0" alt="Charlene LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+ </a>
 <a href="mailto:charlene.martin@holbertonstudents.com"target="top" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="charlene-email"/>
+   <img border="0" alt="Charlene Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+ </a>
   </a>
 
 
