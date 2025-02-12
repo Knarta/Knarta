@@ -6,7 +6,7 @@
  
 
 
-## 📝 About Me 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me 
 
 I am a career changer with a passion for technology and innovation. 
 
@@ -14,7 +14,7 @@ Currently, I am a student at [Holberton School](https://www.holbertonschool.com/
 
 I am excited to bring my diverse background and fresh perspective to the tech industry.
 
-## 👩‍💻 Tech stack
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Tech stack
 <br>
 <p align="center">
  <img src="https://img.shields.io/badge/LINUX-fcc624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux badge">
@@ -36,7 +36,7 @@ I am excited to bring my diverse background and fresh perspective to the tech in
  <img src="https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub badge">
  </p>
 
- ## 📊 GitHub Stats
+ ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GitHub Stats
  <br>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats" style="dislay: block;"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=Knarta&amp;show_icons=true&amp;theme=radical"alt="GitHub statistics"></a>
