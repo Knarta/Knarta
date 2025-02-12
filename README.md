@@ -9,7 +9,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Mon+Nom+est+MARTIN+Charlène...;J'ai+30+ans+...;Etudiante+en+Web+development+FullStack..."/>
 
-<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 I am a career changer with a passion for technology and innovation. 
 
@@ -48,11 +47,12 @@ I am excited to bring my diverse background and fresh perspective to the tech in
 
 ----
 
-<p align="center">
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 📫 Contact Me
+
+<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 <br>
 <a href="https://www.linkedin.com/in/charl%C3%A8ne-martin-a6814660/"target="_blank"  rel="noopener noreferrer">
