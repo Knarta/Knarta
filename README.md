@@ -55,15 +55,14 @@ I am excited to bring my diverse background and fresh perspective to the tech in
 ## 📫 Contact Me
 
 <br>
-<div align="center">
 <a href="https://www.linkedin.com/in/charl%C3%A8ne-martin-a6814660/"target="_blank"  rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="charlene-linkedin" />
 <a href="mailto:charlene.martin@holbertonstudents.com"target="top" rel="noopener noreferrer">
   <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="charlene-email"/>
   </a>
-</div>
 
 
+-----
 <p align="right">
     <a href="https://github.com/knarta?tab=followers">
         <img alt="GitHub followers" src="https://img.shields.io/github/followers/knarta?style=flat&label=Followers&color=blue" alt="GitHub followers badge">
