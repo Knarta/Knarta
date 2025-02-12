@@ -53,7 +53,7 @@ I am excited to bring my diverse background and fresh perspective to the tech in
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
- ## <hr/> <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="80" />&nbsp;Git Profile Trophies</p><br>
+ ## <picture> <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="80"> </picture> Git Profile Trophies
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Knarta&theme=dracula&no-bg=true&row=1"/>
 
 -----
