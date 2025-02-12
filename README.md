@@ -19,6 +19,8 @@ Currently, I am a student at [Holberton School](https://www.holbertonschool.com/
 
 I am excited to bring my diverse background and fresh perspective to the tech industry.
 
+-----
+
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Tech stack
 <br>
 <p align="center">
@@ -41,6 +43,8 @@ I am excited to bring my diverse background and fresh perspective to the tech in
  <img src="https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub badge">
  </p>
 
+ -----
+ 
  ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GitHub Stats
  <br>
 <p align="center">
@@ -52,6 +56,7 @@ I am excited to bring my diverse background and fresh perspective to the tech in
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
+-----
 
 ## 📫 Contact Me
 
