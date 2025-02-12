@@ -7,7 +7,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Mon+Nom+est+MARTIN+Charlène...;J'ai+30+ans+...;Etudiante+en+Web+development+FullStack..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Mon+Nom+est+MARTIN+Charlène...;J'ai+30+ans...;Etudiante+en+Web+development+FullStack..."/>
 
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="230" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img>
