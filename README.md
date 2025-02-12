@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/a/7bgZLfO" alt="Linux badge">
+<img src="https://i.imgur.com/oakBpXc.jpeg" alt="Linux badge">
  </p>
  
  
