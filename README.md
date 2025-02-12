@@ -56,21 +56,18 @@ I am excited to bring my diverse background and fresh perspective to the tech in
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Knarta&theme=dracula&no-bg=true&row=1"/>
 
 ----
-
+<p align="center">
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+</p>
 
 -----
 
 ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Contact Me
 
 <br>
-<a href="https://www.linkedin.com/in/charl%C3%A8ne-martin-a6814660/"> <img border="0" alt="Charlene LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
- </a>
-<a href="mailto:charlene.martin@holbertonstudents.com"target="top" rel="noopener noreferrer">
-   <img border="0" alt="Charlene Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
- </a>
-  </a>
-
+<a href="https://www.linkedin.com/in/charl%C3%A8ne-martin-a6814660/"target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+<a href="mailto:charlene.martin@holbertonstudents.com"target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</a>
 
 
 -----
