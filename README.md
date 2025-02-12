@@ -48,9 +48,10 @@ I am excited to bring my diverse background and fresh perspective to the tech in
  ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GitHub Stats
  <br>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" style="dislay: block;"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=Knarta&amp;show_icons=true&amp;theme=radical"alt="GitHub statistics"></a>
-<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knarta&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab&title_color=ffffff&text_color=ffffff&bar_color=ff69b4&icon_color=ff69b4" alt="GitHub statistics"> </a>
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Knarta&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
+<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knarta&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+</a>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Knarta&theme=dracula&no-bg=true&row=1"/>
 
 ----
 
