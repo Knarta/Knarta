@@ -5,8 +5,9 @@
  
  
 
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me 
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Mon+Nom+est+MARTIN+Charlène...;J'ai+30+ans+...;Etudiante+En+Web+development+Full Stack..."/>
 
 I am a career changer with a passion for technology and innovation. 
 
@@ -43,12 +44,6 @@ I am excited to bring my diverse background and fresh perspective to the tech in
 <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knarta&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab&title_color=ffffff&text_color=ffffff&bar_color=ff69b4&icon_color=ff69b4" alt="GitHub statistics"> </a>
 </p>
 
-----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Knarta/Knarta/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
 
 
 ## 📫 Contact Me
