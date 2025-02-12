@@ -1,6 +1,7 @@
 <p align="center">
-![Mon image](https://imgur.com/a/7bgZLfO.png)
+<img src="https://imgur.com/a/7bgZLfO" alt="Linux badge">
  </p>
+ 
  
  
 
