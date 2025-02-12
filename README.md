@@ -42,10 +42,18 @@ I am excited to bring my diverse background and fresh perspective to the tech in
 <a href="https://github.com/anuraghazra/github-readme-stats" style="dislay: block;"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=Knarta&amp;show_icons=true&amp;theme=radical"alt="GitHub statistics"></a>
 <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knarta&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab&title_color=ffffff&text_color=ffffff&bar_color=ff69b4&icon_color=ff69b4" alt="GitHub statistics"> </a>
 </p>
+----
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Knarta/Knarta/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
 
 ## 📫 Contact Me
-<a href="https://www.linkedin.com/in/charl%C3%A8ne-martin-a6814660/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> 
-<a href="mailto:charlene.martin@holbertonstudents.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </p>
+<a href="https://www.linkedin.com/in/charl%C3%A8ne-martin-a6814660/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="mailto:charlene.martin@holbertonstudents.com"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+
+</p>
 
 
 <p align="right">
