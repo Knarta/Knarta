@@ -47,9 +47,11 @@ I am excited to bring my diverse background and fresh perspective to the tech in
  
  ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GitHub Stats
  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Knarta&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knarta&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
-</a>
+<br/>
+    <a href="https://github.com/Knarta/github-readme-stats"><img alt="Knarta Github Stats" src="https://github-readme-stats.vercel.app/api?username=Knarta&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Knarta/github-readme-stats"><img alt="Knarta Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knarta&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Knarta&theme=dracula&no-bg=true&row=1"/>
 
