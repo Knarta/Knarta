@@ -47,7 +47,7 @@ I am excited to bring my diverse background and fresh perspective to the tech in
 ----
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/Knarta/Knarta/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 
