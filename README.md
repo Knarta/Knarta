@@ -83,7 +83,7 @@ I am excited to bring my diverse background and fresh perspective to the tech in
 
 <br>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Thanks+For+Visiting+My+Profile+!!!"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Thanks+For+Visiting+My+Profile+!!!+"/>
  </p>
 
 <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
