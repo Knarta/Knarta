@@ -10,7 +10,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Mon+Nom+est+MARTIN+Charlène...;J'ai+30+ans...;Etudiante+en+Web+development+FullStack..."/>
 
 
-<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="230" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
 I am a career changer with a passion for technology and innovation. 
@@ -20,6 +20,8 @@ Currently, I am a student at [Holberton School](https://www.holbertonschool.com/
 I am excited to bring my diverse background and fresh perspective to the tech industry.
 
 -----
+
+
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Tech stack
 <br>
