@@ -81,7 +81,7 @@ I am excited to bring my diverse background and fresh perspective to the tech in
     </a>
 </p>
 
-
+<br>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Thanks+For+Visiting+!!!"/>
  </p>
