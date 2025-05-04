@@ -7,7 +7,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=My+Name+Is+Charlène...;I'm+30+Years...;Student+In+Web+Development+FullStack..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=My+Name+Is+Charlène...;I'm+30+Years...;Student+In+Web+Development..."/>
 
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
@@ -15,7 +15,7 @@
 
 I am a career changer with a passion for technology and innovation. 
 
-Currently, I am a student at [Holberton School](https://www.holbertonschool.com/), where I am learning full-stack software development. 
+Currently, I am a student at [Holberton School](https://www.holbertonschool.com/). 
 
 I am excited to bring my diverse background and fresh perspective to the tech industry.
 
